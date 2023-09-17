@@ -1,6 +1,6 @@
 # Pengurus-Nahdlatul-Ulama
  Data klasifikasi pengurus NU
 
-* [PWNU](https://github.com/Lesbumi-NU/Pengurus-Nahdlatul-Ulama/blob/main/PWNU.csv)
-* [PCINU](https://github.com/Lesbumi-NU/Pengurus-Nahdlatul-Ulama/blob/main/PCINU.csv)
-* PCNU (dalam proses) 
+* [PWNU.csv](https://github.com/Lesbumi-NU/Pengurus-Nahdlatul-Ulama/blob/main/PWNU.csv)
+* [PWNU.json](https://github.com/Lesbumi-NU/Pengurus-Nahdlatul-Ulama/blob/main/PWNU.json)
+* [PCINU.csv](https://github.com/Lesbumi-NU/Pengurus-Nahdlatul-Ulama/blob/main/PCINU.csv)
